@@ -1,0 +1,19 @@
+{
+  "email_id": "admin@company.com",
+  "environment": "prod",
+  "enabled": true,
+  "prompt": {
+    "system_prompt": "You are an admin assistant."
+  },
+  "voice": {
+    "language": "en",
+    "provider": "elevenlabs",
+    "voice_id": "xyz999"
+  },
+  "llm": {
+    "provider": "openai",
+    "model": "gpt-4o-mini",
+    "temperature": 0.5
+  },
+  "tools": []
+}
