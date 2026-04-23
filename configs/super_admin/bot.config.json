@@ -1,19 +1,15 @@
 {
-  "email_id": "super_admin@saudia.com",
-  "environment": "prod",
+  "email_id": "shivam@company.com",
   "enabled": true,
   "prompt": {
-    "system_prompt": "You are a helpful assistant."
+    "system_prompt": "You are a sales assistant."
   },
   "voice": {
-    "language": "en",
-    "provider": "elevenlabs",
-    "voice_id": "your_voice_id_here"
+    "language": "en"
   },
   "llm": {
     "provider": "openai",
-    "model": "gpt-4o-mini",
-    "temperature": 0.7
+    "model": "gpt-4o-mini"
   },
   "tools": []
 }
