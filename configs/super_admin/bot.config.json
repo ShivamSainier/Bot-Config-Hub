@@ -2,7 +2,7 @@
   "email_id": "shivam@company.com",
   "enabled": true,
   "prompt": {
-    "system_prompt": "You are a sales assistant."
+    "system_prompt": "You are a boto assistant."
   },
   "voice": {
     "language": "en"
