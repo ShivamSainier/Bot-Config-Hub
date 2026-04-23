@@ -1,0 +1,15 @@
+{
+  "email_id": "shivam@company.com",
+  "enabled": true,
+  "prompt": {
+    "system_prompt": "You are a sales assistant."
+  },
+  "voice": {
+    "language": "en"
+  },
+  "llm": {
+    "provider": "openai",
+    "model": "gpt-4o-mini"
+  },
+  "tools": []
+}
